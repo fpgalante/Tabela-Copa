@@ -1,0 +1,1060 @@
+{
+    "partidas": [
+        {
+            "fase": "fase-de-grupos",
+            "rodada": 1,
+            "grupo": "A",
+            "estádio": "Al Bayt",
+            "datetime": 1668956400,
+            "time_1": {
+                "nome": "Catar",
+                "sigla": "QA",
+                "gols": 0
+            },
+            "time_2": {
+                "nome": "Equador",
+                "sigla": "EC",
+                "gols": 2
+            }
+        },
+        {
+            "fase": "fase-de-grupos",
+            "rodada": 1,
+            "grupo": "A",
+            "estádio": "Al Thumama",
+            "datetime": 1669042800,
+            "time_1": {
+                "nome": "Senegal",
+                "sigla": "SN",
+                "gols": 0
+            },
+            "time_2": {
+                "nome": "Holanda",
+                "sigla": "NL",
+                "gols": 2
+            }
+        },
+        {
+            "fase": "fase-de-grupos",
+            "rodada": 2,
+            "grupo": "A",
+            "estádio": "Al Thumama",
+            "datetime": 1669377600,
+            "time_1": {
+                "nome": "Catar",
+                "sigla": "QA",
+                "gols": 1
+            },
+            "time_2": {
+                "nome": "Senegal",
+                "sigla": "SN",
+                "gols": 3
+            }
+        },
+        {
+            "fase": "fase-de-grupos",
+            "rodada": 2,
+            "grupo": "A",
+            "estádio": "Internacional Khalifa",
+            "datetime": 1669388400,
+            "time_1": {
+                "nome": "Holanda",
+                "sigla": "NL",
+                "gols": 1
+            },
+            "time_2": {
+                "nome": "Equador",
+                "sigla": "EC",
+                "gols": 1
+            }
+        },
+        {
+            "fase": "fase-de-grupos",
+            "rodada": 3,
+            "grupo": "A",
+            "estádio": "Al Bayt",
+            "datetime": 1669730400,
+            "time_1": {
+                "nome": "Holanda",
+                "sigla": "NL",
+                "gols": 2
+            },
+            "time_2": {
+                "nome": "Catar",
+                "sigla": "QA",
+                "gols": 0
+            }
+        },
+        {
+            "fase": "fase-de-grupos",
+            "rodada": 3,
+            "grupo": "A",
+            "estádio": "Internacional Khalifa",
+            "datetime": 1669730400,
+            "time_1": {
+                "nome": "Equador",
+                "sigla": "EC",
+                "gols": 1
+            },
+            "time_2": {
+                "nome": "Senegal",
+                "sigla": "SN",
+                "gols": 2
+            }
+        },
+        {
+            "fase": "fase-de-grupos",
+            "rodada": 1,
+            "grupo": "B",
+            "estádio": "Internacional Khalifa",
+            "datetime": 1669032000,
+            "time_1": {
+                "nome": "Inglaterra",
+                "sigla": "GB_ENG",
+                "gols": 6
+            },
+            "time_2": {
+                "nome": "Irã",
+                "sigla": "IR",
+                "gols": 2
+            }
+        },
+        {
+            "fase": "fase-de-grupos",
+            "rodada": 1,
+            "grupo": "B",
+            "estádio": "Ahmad bin Ali",
+            "datetime": 1669053600,
+            "time_1": {
+                "nome": "Estados Unidos",
+                "sigla": "US",
+                "gols": 1
+            },
+            "time_2": {
+                "nome": "País de Gales",
+                "sigla": "GB_WLS",
+                "gols": 1
+            }
+        },
+        {
+            "fase": "fase-de-grupos",
+            "rodada": 2,
+            "grupo": "B",
+            "estádio": "Ahmad bin Ali",
+            "datetime": 1669366800,
+            "time_1": {
+                "nome": "País de Gales",
+                "sigla": "GB_WLS",
+                "gols": 0
+            },
+            "time_2": {
+                "nome": "Irã",
+                "sigla": "IR",
+                "gols": 2
+            }
+        },
+        {
+            "fase": "fase-de-grupos",
+            "rodada": 2,
+            "grupo": "B",
+            "estádio": "Al Bayt",
+            "datetime": 1669399200,
+            "time_1": {
+                "nome": "Inglaterra",
+                "sigla": "GB_ENG",
+                "gols": 0
+            },
+            "time_2": {
+                "nome": "Estados Unidos",
+                "sigla": "US",
+                "gols": 0
+            }
+        },
+        {
+            "fase": "fase-de-grupos",
+            "rodada": 3,
+            "grupo": "B",
+            "estádio": "Al Thumama",
+            "datetime": 1669744800,
+            "time_1": {
+                "nome": "Irã",
+                "sigla": "IR",
+                "gols": 0
+            },
+            "time_2": {
+                "nome": "Estados Unidos",
+                "sigla": "US",
+                "gols": 1
+            }
+        },
+        {
+            "fase": "fase-de-grupos",
+            "rodada": 3,
+            "grupo": "B",
+            "estádio": "Ahmad bin Ali",
+            "datetime": 1669744800,
+            "time_1": {
+                "nome": "País de Gales",
+                "sigla": "GB_WLS",
+                "gols": 0
+            },
+            "time_2": {
+                "nome": "Inglaterra",
+                "sigla": "GB_ENG",
+                "gols": 3
+            }
+        },
+        {
+            "fase": "fase-de-grupos",
+            "rodada": 1,
+            "grupo": "C",
+            "estádio": "Lusail",
+            "datetime": 1669107600,
+            "time_1": {
+                "nome": "Argentina",
+                "sigla": "AR",
+                "gols": 1
+            },
+            "time_2": {
+                "nome": "Arábia Saudita",
+                "sigla": "SA",
+                "gols": 2
+            }
+        },
+        {
+            "fase": "fase-de-grupos",
+            "rodada": 1,
+            "grupo": "C",
+            "estádio": "Estádio 974",
+            "datetime": 1669129200,
+            "time_1": {
+                "nome": "México",
+                "sigla": "MX",
+                "gols": 0
+            },
+            "time_2": {
+                "nome": "Polônia",
+                "sigla": "PL",
+                "gols": 0
+            }
+        },
+        {
+            "fase": "fase-de-grupos",
+            "rodada": 2,
+            "grupo": "C",
+            "estádio": "Cidade da Educação",
+            "datetime": 1669464000,
+            "time_1": {
+                "nome": "Polônia",
+                "sigla": "PL",
+                "gols": 2
+            },
+            "time_2": {
+                "nome": "Arábia Saudita",
+                "sigla": "SA",
+                "gols": 0
+            }
+        },
+        {
+            "fase": "fase-de-grupos",
+            "rodada": 2,
+            "grupo": "C",
+            "estádio": "Lusail",
+            "datetime": 1669485600,
+            "time_1": {
+                "nome": "Argentina",
+                "sigla": "AR",
+                "gols": 2
+            },
+            "time_2": {
+                "nome": "México",
+                "sigla": "MX",
+                "gols": 0
+            }
+        },
+        {
+            "fase": "fase-de-grupos",
+            "rodada": 3,
+            "grupo": "C",
+            "estádio": "Estádio 974",
+            "datetime": 1669831200,
+            "time_1": {
+                "nome": "Polônia",
+                "sigla": "PL",
+                "gols": 0
+            },
+            "time_2": {
+                "nome": "Argentina",
+                "sigla": "AR",
+                "gols": 2
+            }
+        },
+        {
+            "fase": "fase-de-grupos",
+            "rodada": 3,
+            "grupo": "C",
+            "estádio": "Lusail",
+            "datetime": 1669831200,
+            "time_1": {
+                "nome": "Arábia Saudita",
+                "sigla": "SA",
+                "gols": 1
+            },
+            "time_2": {
+                "nome": "México",
+                "sigla": "MX",
+                "gols": 2
+            }
+        },
+        {
+            "fase": "fase-de-grupos",
+            "rodada": 1,
+            "grupo": "D",
+            "estádio": "Cidade da Educação",
+            "datetime": 1669118400,
+            "time_1": {
+                "nome": "Dinamarca",
+                "sigla": "DK",
+                "gols": 0
+            },
+            "time_2": {
+                "nome": "Tunísia",
+                "sigla": "TN",
+                "gols": 0
+            }
+        },
+        {
+            "fase": "fase-de-grupos",
+            "rodada": 1,
+            "grupo": "D",
+            "estádio": "Al Janoub",
+            "datetime": 1669140000,
+            "time_1": {
+                "nome": "França",
+                "sigla": "FR",
+                "gols": 4
+            },
+            "time_2": {
+                "nome": "Austrália",
+                "sigla": "AU",
+                "gols": 1
+            }
+        },
+        {
+            "fase": "fase-de-grupos",
+            "rodada": 2,
+            "grupo": "D",
+            "estádio": "Al Janoub",
+            "datetime": 1669453200,
+            "time_1": {
+                "nome": "Tunísia",
+                "sigla": "TN",
+                "gols": 0
+            },
+            "time_2": {
+                "nome": "Austrália",
+                "sigla": "AU",
+                "gols": 1
+            }
+        },
+        {
+            "fase": "fase-de-grupos",
+            "rodada": 2,
+            "grupo": "D",
+            "estádio": "Estádio 974",
+            "datetime": 1669474800,
+            "time_1": {
+                "nome": "França",
+                "sigla": "FR",
+                "gols": 2
+            },
+            "time_2": {
+                "nome": "Dinamarca",
+                "sigla": "DK",
+                "gols": 1
+            }
+        },
+        {
+            "fase": "fase-de-grupos",
+            "rodada": 3,
+            "grupo": "D",
+            "estádio": "Cidade da Educação",
+            "datetime": 1669816800,
+            "time_1": {
+                "nome": "Tunísia",
+                "sigla": "TN",
+                "gols": 1
+            },
+            "time_2": {
+                "nome": "França",
+                "sigla": "FR",
+                "gols": 0
+            }
+        },
+        {
+            "fase": "fase-de-grupos",
+            "rodada": 3,
+            "grupo": "D",
+            "estádio": "Al Janoub",
+            "datetime": 1669816800,
+            "time_1": {
+                "nome": "Austrália",
+                "sigla": "AU",
+                "gols": 1
+            },
+            "time_2": {
+                "nome": "Dinamarca",
+                "sigla": "DK",
+                "gols": 0
+            }
+        },
+        {
+            "fase": "fase-de-grupos",
+            "rodada": 1,
+            "grupo": "E",
+            "estádio": "Internacional Khalifa",
+            "datetime": 1669204800,
+            "time_1": {
+                "nome": "Alemanha",
+                "sigla": "DE",
+                "gols": 1
+            },
+            "time_2": {
+                "nome": "Japão",
+                "sigla": "JP",
+                "gols": 2
+            }
+        },
+        {
+            "fase": "fase-de-grupos",
+            "rodada": 1,
+            "grupo": "E",
+            "estádio": "Al Thumama",
+            "datetime": 1669215600,
+            "time_1": {
+                "nome": "Espanha",
+                "sigla": "ES",
+                "gols": 7
+            },
+            "time_2": {
+                "nome": "Costa Rica",
+                "sigla": "CR",
+                "gols": 0
+            }
+        },
+        {
+            "fase": "fase-de-grupos",
+            "rodada": 2,
+            "grupo": "E",
+            "estádio": "Ahmad bin Ali",
+            "datetime": 1669539600,
+            "time_1": {
+                "nome": "Japão",
+                "sigla": "JP",
+                "gols": 0
+            },
+            "time_2": {
+                "nome": "Costa Rica",
+                "sigla": "CR",
+                "gols": 1
+            }
+        },
+        {
+            "fase": "fase-de-grupos",
+            "rodada": 2,
+            "grupo": "E",
+            "estádio": "Al Bayt",
+            "datetime": 1669572000,
+            "time_1": {
+                "nome": "Espanha",
+                "sigla": "ES",
+                "gols": 1
+            },
+            "time_2": {
+                "nome": "Alemanha",
+                "sigla": "DE",
+                "gols": 1
+            }
+        },
+        {
+            "fase": "fase-de-grupos",
+            "rodada": 3,
+            "grupo": "E",
+            "estádio": "Internacional Khalifa",
+            "datetime": 1669917600,
+            "time_1": {
+                "nome": "Japão",
+                "sigla": "JP",
+                "gols": 2
+            },
+            "time_2": {
+                "nome": "Espanha",
+                "sigla": "ES",
+                "gols": 1
+            }
+        },
+        {
+            "fase": "fase-de-grupos",
+            "rodada": 3,
+            "grupo": "E",
+            "estádio": "Al Bayt",
+            "datetime": 1669917600,
+            "time_1": {
+                "nome": "Costa Rica",
+                "sigla": "CR",
+                "gols": 2
+            },
+            "time_2": {
+                "nome": "Alemanha",
+                "sigla": "DE",
+                "gols": 4
+            }
+        },
+        {
+            "fase": "fase-de-grupos",
+            "rodada": 1,
+            "grupo": "F",
+            "estádio": "Al Bayt",
+            "datetime": 1669194000,
+            "time_1": {
+                "nome": "Marrocos",
+                "sigla": "MA",
+                "gols": 0
+            },
+            "time_2": {
+                "nome": "Croácia",
+                "sigla": "HR",
+                "gols": 0
+            }
+        },
+        {
+            "fase": "fase-de-grupos",
+            "rodada": 1,
+            "grupo": "F",
+            "estádio": "Ahmad bin Ali",
+            "datetime": 1669226400,
+            "time_1": {
+                "nome": "Bélgica",
+                "sigla": "BE",
+                "gols": 1
+            },
+            "time_2": {
+                "nome": "Canadá",
+                "sigla": "CA",
+                "gols": 0
+            }
+        },
+        {
+            "fase": "fase-de-grupos",
+            "rodada": 2,
+            "grupo": "F",
+            "estádio": "Al Bayt",
+            "datetime": 1669550400,
+            "time_1": {
+                "nome": "Bélgica",
+                "sigla": "BE",
+                "gols": 0
+            },
+            "time_2": {
+                "nome": "Marrocos",
+                "sigla": "MA",
+                "gols": 2
+            }
+        },
+        {
+            "fase": "fase-de-grupos",
+            "rodada": 2,
+            "grupo": "F",
+            "estádio": "Internacional Khalifa",
+            "datetime": 1669561200,
+            "time_1": {
+                "nome": "Croácia",
+                "sigla": "HR",
+                "gols": 4
+            },
+            "time_2": {
+                "nome": "Canadá",
+                "sigla": "CA",
+                "gols": 1
+            }
+        },
+        {
+            "fase": "fase-de-grupos",
+            "rodada": 3,
+            "grupo": "F",
+            "estádio": "Ahmad bin Ali",
+            "datetime": 1669903200,
+            "time_1": {
+                "nome": "Croácia",
+                "sigla": "HR",
+                "gols": 0
+            },
+            "time_2": {
+                "nome": "Bélgica",
+                "sigla": "BE",
+                "gols": 0
+            }
+        },
+        {
+            "fase": "fase-de-grupos",
+            "rodada": 3,
+            "grupo": "F",
+            "estádio": "Al Thumama",
+            "datetime": 1669903200,
+            "time_1": {
+                "nome": "Canadá",
+                "sigla": "CA",
+                "gols": 1
+            },
+            "time_2": {
+                "nome": "Marrocos",
+                "sigla": "MA",
+                "gols": 2
+            }
+        },
+        {
+            "fase": "fase-de-grupos",
+            "rodada": 1,
+            "grupo": "G",
+            "estádio": "Al Janoub",
+            "datetime": 1669280400,
+            "time_1": {
+                "nome": "Suíça",
+                "sigla": "CH",
+                "gols": 1
+            },
+            "time_2": {
+                "nome": "Camarões",
+                "sigla": "CM",
+                "gols": 0
+            }
+        },
+        {
+            "fase": "fase-de-grupos",
+            "rodada": 1,
+            "grupo": "G",
+            "estádio": "Lusail",
+            "datetime": 1669312800,
+            "time_1": {
+                "nome": "Brasil",
+                "sigla": "BR",
+                "gols": 2
+            },
+            "time_2": {
+                "nome": "Sérvia",
+                "sigla": "RS",
+                "gols": 0
+            }
+        },
+        {
+            "fase": "fase-de-grupos",
+            "rodada": 2,
+            "grupo": "G",
+            "estádio": "Al Janoub",
+            "datetime": 1669626000,
+            "time_1": {
+                "nome": "Camarões",
+                "sigla": "CM",
+                "gols": 3
+            },
+            "time_2": {
+                "nome": "Sérvia",
+                "sigla": "RS",
+                "gols": 3
+            }
+        },
+        {
+            "fase": "fase-de-grupos",
+            "rodada": 2,
+            "grupo": "G",
+            "estádio": "Estádio 974",
+            "datetime": 1669647600,
+            "time_1": {
+                "nome": "Brasil",
+                "sigla": "BR",
+                "gols": 1
+            },
+            "time_2": {
+                "nome": "Suíça",
+                "sigla": "CH",
+                "gols": 0
+            }
+        },
+        {
+            "fase": "fase-de-grupos",
+            "rodada": 3,
+            "grupo": "G",
+            "estádio": "Lusail",
+            "datetime": 1670004000,
+            "time_1": {
+                "nome": "Camarões",
+                "sigla": "CM",
+                "gols": 1
+            },
+            "time_2": {
+                "nome": "Brasil",
+                "sigla": "BR",
+                "gols": 0
+            }
+        },
+        {
+            "fase": "fase-de-grupos",
+            "rodada": 3,
+            "grupo": "G",
+            "estádio": "Estádio 974",
+            "datetime": 1670004000,
+            "time_1": {
+                "nome": "Sérvia",
+                "sigla": "RS",
+                "gols": 2
+            },
+            "time_2": {
+                "nome": "Suíça",
+                "sigla": "CH",
+                "gols": 3
+            }
+        },
+        {
+            "fase": "fase-de-grupos",
+            "rodada": 1,
+            "grupo": "H",
+            "estádio": "Cidade da Educação",
+            "datetime": 1669291200,
+            "time_1": {
+                "nome": "Uruguai",
+                "sigla": "UY",
+                "gols": 0
+            },
+            "time_2": {
+                "nome": "Coreia do Sul",
+                "sigla": "KR",
+                "gols": 0
+            }
+        },
+        {
+            "fase": "fase-de-grupos",
+            "rodada": 1,
+            "grupo": "H",
+            "estádio": "Estádio 974",
+            "datetime": 1669302000,
+            "time_1": {
+                "nome": "Portugal",
+                "sigla": "PT",
+                "gols": 3
+            },
+            "time_2": {
+                "nome": "Gana",
+                "sigla": "GH",
+                "gols": 2
+            }
+        },
+        {
+            "fase": "fase-de-grupos",
+            "rodada": 2,
+            "grupo": "H",
+            "estádio": "Cidade da Educação",
+            "datetime": 1669636800,
+            "time_1": {
+                "nome": "Coreia do Sul",
+                "sigla": "KR",
+                "gols": 2
+            },
+            "time_2": {
+                "nome": "Gana",
+                "sigla": "GH",
+                "gols": 3
+            }
+        },
+        {
+            "fase": "fase-de-grupos",
+            "rodada": 2,
+            "grupo": "H",
+            "estádio": "Lusail",
+            "datetime": 1669658400,
+            "time_1": {
+                "nome": "Portugal",
+                "sigla": "PT",
+                "gols": 2
+            },
+            "time_2": {
+                "nome": "Uruguai",
+                "sigla": "UY",
+                "gols": 0
+            }
+        },
+        {
+            "fase": "fase-de-grupos",
+            "rodada": 3,
+            "grupo": "H",
+            "estádio": "Cidade da Educação",
+            "datetime": 1669989600,
+            "time_1": {
+                "nome": "Coreia do Sul",
+                "sigla": "KR",
+                "gols": 2
+            },
+            "time_2": {
+                "nome": "Portugal",
+                "sigla": "PT",
+                "gols": 1
+            }
+        },
+        {
+            "fase": "fase-de-grupos",
+            "rodada": 3,
+            "grupo": "H",
+            "estádio": "Al Janoub",
+            "datetime": 1669989600,
+            "time_1": {
+                "nome": "Gana",
+                "sigla": "GH",
+                "gols": 0
+            },
+            "time_2": {
+                "nome": "Uruguai",
+                "sigla": "UY",
+                "gols": 2
+            }
+        },
+        {
+            "fase": "oitavas",
+            "estádio": "Internacional Khalifa",
+            "datetime": 1670076000,
+            "time_1": {
+                "nome": "Holanda",
+                "sigla": "NL",
+                "gols": 3
+            },
+            "time_2": {
+                "nome": "Estados Unidos",
+                "sigla": "US",
+                "gols": 1
+            }
+        },
+        {
+            "fase": "oitavas",
+            "estádio": "Ahmad bin Ali",
+            "datetime": 1670090400,
+            "time_1": {
+                "nome": "Argentina",
+                "sigla": "AR",
+                "gols": 2
+            },
+            "time_2": {
+                "nome": "Austrália",
+                "sigla": "AU",
+                "gols": 1
+            }
+        },
+        {
+            "fase": "oitavas",
+            "estádio": "Al Janoub",
+            "datetime": 1670248800,
+            "time_1": {
+                "nome": "Japão",
+                "sigla": "JP",
+                "gols": 1
+            },
+            "time_2": {
+                "nome": "Croácia",
+                "sigla": "HR",
+                "gols": 1
+            }
+        },
+        {
+            "fase": "oitavas",
+            "estádio": "Estádio 974",
+            "datetime": 1670263200,
+            "time_1": {
+                "nome": "Brasil",
+                "sigla": "BR",
+                "gols": 4
+            },
+            "time_2": {
+                "nome": "Coréia do Sul",
+                "sigla": "KR",
+                "gols": 1
+            }
+        },
+        {
+            "fase": "oitavas",
+            "estádio": "Al Bayt",
+            "datetime": 1670176800,
+            "time_1": {
+                "nome": "Inglaterra",
+                "sigla": "GB_ENG",
+                "gols": 3
+            },
+            "time_2": {
+                "nome": "Senegal",
+                "sigla": "SN",
+                "gols": 0
+            }
+        },
+        {
+            "fase": "oitavas",
+            "estádio": "Al Thumama",
+            "datetime": 1670162400,
+            "time_1": {
+                "nome": "França",
+                "sigla": "FR",
+                "gols": 3
+            },
+            "time_2": {
+                "nome": "Polônia",
+                "sigla": "PL",
+                "gols": 1
+            }
+        },
+        {
+            "fase": "oitavas",
+            "estádio": "Cidade da Educação",
+            "datetime": 1670335200,
+            "time_1": {
+                "nome": "Marrocos",
+                "sigla": "MA",
+                "gols": 0
+            },
+            "time_2": {
+                "nome": "Espanha",
+                "sigla": "ES",
+                "gols": 0
+            }
+        },
+        {
+            "fase": "oitavas",
+            "estádio": "Lusail",
+            "datetime": 1670349600,
+            "time_1": {
+                "nome": "Portugal",
+                "sigla": "PT",
+                "gols": 6
+            },
+            "time_2": {
+                "nome": "Suíça",
+                "sigla": "CH",
+                "gols": 1
+            }
+        },
+        {
+            "fase": "quartas",
+            "estádio": "Lusail",
+            "datetime": 1670608800,
+            "time_1": {
+                "nome": "Holanda",
+                "sigla": "NL",
+                "gols": 2
+            },
+            "time_2": {
+                "nome": "Argentina",
+                "sigla": "AR",
+                "gols": 2
+            }
+        },
+        {
+            "fase": "quartas",
+            "estádio": "Cidade da Educação",
+            "datetime": 1670594400,
+            "time_1": {
+                "nome": "Croácia",
+                "sigla": "HR",
+                "gols": 1
+            },
+            "time_2": {
+                "nome": "Brasil",
+                "sigla": "BR",
+                "gols": 1
+            }
+        },
+        {
+            "fase": "quartas",
+            "estádio": "Al Bayt",
+            "datetime": 1670695200,
+            "time_1": {
+                "nome": "Inglaterra",
+                "sigla": "GB_ENG",
+                "gols": 1
+            },
+            "time_2": {
+                "nome": "França",
+                "sigla": "FR",
+                "gols": 2
+            }
+        },
+        {
+            "fase": "quartas",
+            "estádio": "Al Thumama",
+            "datetime": 1670680800,
+            "time_1": {
+                "nome": "Marrocos",
+                "sigla": "MA",
+                "gols": 1
+            },
+            "time_2": {
+                "nome": "Portugal",
+                "sigla": "PT",
+                "gols": 0
+            }
+        },
+        {
+            "fase": "semi",
+            "estádio": "Lusail",
+            "datetime": 1670954400,
+            "time_1": {
+                "nome": "Argentina",
+                "sigla": "AR",
+                "gols": 3
+            },
+            "time_2": {
+                "nome": "Croácia",
+                "sigla": "HR",
+                "gols": 0
+            }
+        },
+        {
+            "fase": "semi",
+            "estádio": "Al Bayt",
+            "datetime": 1671040800,
+            "time_1": {
+                "nome": "França",
+                "sigla": "FR",
+                "gols": 2
+            },
+            "time_2": {
+                "nome": "Marrocos",
+                "sigla": "MA",
+                "gols": 0
+            }
+        },
+        {
+            "fase": "terceiro-lugar",
+            "estádio": "Internacional Khalifa",
+            "datetime": 1671285600,
+            "time_1": {
+                "nome": "Croácia",
+                "sigla": "HR",
+                "gols": 2
+            },
+            "time_2": {
+                "nome": "Marrocos",
+                "sigla": "MA",
+                "gols": 1
+            }
+        },
+        {
+            "fase": "final",
+            "estádio": "Lusail",
+            "datetime": 1671372000,
+            "time_1": {
+                "nome": "Argentina",
+                "sigla": "AR",
+                "gols": 3
+            },
+            "time_2": {
+                "nome": "França",
+                "sigla": "FR",
+                "gols": 3
+            }
+        }
+    ]
+}
